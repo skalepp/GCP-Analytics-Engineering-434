@@ -1,6 +1,4 @@
 # GCP-Analytics-Engineering-434
 Repo that will host all application code for my project.
 
-### Making changes to readme
-
-### testing the circleci changes
+### adding logic to readme to show the circleci integration
